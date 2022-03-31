@@ -4,23 +4,38 @@ main {
     align-items: center;
     margin: auto;
     margin-top: 220px;
+    text-align: center;
+    border-radius: 10px;
 }
 
 .Toman {
-    border: 1px solid royalblue;
-    border-radius: 5px;
+    border: 3px solid rgb(76, 115, 230);
     padding: 25px;
     height: 300px;
     width: 40%;
-    background-color:rgba(0, 217, 255, 0.308);
+    background-color:rgba(0, 217, 255, 0.363);
 }
 
-.Toman input {
+.inputs input {
     background-color: rgb(253, 44, 253);
    margin: 10px 0px;
    height: 20px;
    width: 50%;
    border-radius: 5px;
+}
+
+.inputs {
+    background-color: rgb(130, 5, 168);
+    border-radius: 5px;
+}
+
+.resultado {
+    background-color: rgb(111, 111, 241);
+    border-radius: 5px;
+}
+
+.resultado input {
+    background-color: rgb(105, 151, 238);
 }
 
 #resultadox1 {
@@ -45,14 +60,6 @@ main {
     display: center;
     height: 200px;
 
-}
-
-#inputx1 {
-    background-color: rgb(130, 130, 236);
-}
-
-#inputx2 {
-    background-color: rgb(130, 130, 236);
 }
 
 body {
