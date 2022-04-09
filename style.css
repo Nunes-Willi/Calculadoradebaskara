@@ -3,9 +3,17 @@ main {
     justify-content: center;
     align-items: center;
     margin: auto;
-    margin-top: 220px;
+    margin-top: 110px;
     text-align: center;
     border-radius: 10px;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    text-decoration: underline;
 }
 
 .Toman {
