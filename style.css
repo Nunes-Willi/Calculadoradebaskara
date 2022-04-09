@@ -9,15 +9,15 @@ main {
 }
 
 .Toman {
-    border: 3px solid rgb(76, 115, 230);
+    border: 3px solid rgb(76, 156, 230);
     padding: 25px;
     height: 300px;
     width: 40%;
-    background-color:rgba(0, 217, 255, 0.363);
+    background-color:rgba(76, 0, 255, 0.938);
 }
 
 .inputs input {
-    background-color: rgb(253, 44, 253);
+    background-color: rgb(221, 132, 248);
    margin: 10px 0px;
    height: 20px;
    width: 50%;
@@ -25,7 +25,7 @@ main {
 }
 
 .inputs {
-    background-color: rgb(130, 5, 168);
+    background-color: rgb(172, 9, 221);
     border-radius: 5px;
 }
 
@@ -63,5 +63,5 @@ main {
 }
 
 body {
-    background-color: lightblue;
+    background-color: rgb(177, 173, 230);
 }
